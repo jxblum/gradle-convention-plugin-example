@@ -1,0 +1,7 @@
+# Version Catalog
+
+[versions]
+google-guava = "33.4.0-jre"
+
+[libraries]
+guava = { module = "com.google.guava:guava", version.ref = "google-guava" }
