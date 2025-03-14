@@ -1,6 +1,6 @@
 plugins {
     base
-    // id("MyConventionsPlugin")
+    id("MyConventionsPlugin")
 }
 
 description = "Gradle Convention Plugin Example Project"
